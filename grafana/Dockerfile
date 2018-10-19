@@ -1,0 +1,2 @@
+FROM gcr.io/linkerd-io/grafana:stable-2.0.0 
+MAINTAINER phil <phil.ding@nio.com>
