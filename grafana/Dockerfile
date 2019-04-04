@@ -1,2 +1,2 @@
-FROM gcr.io/linkerd-io/grafana:stable-2.0.0 
+FROM gcr.io/heptio-images/eventrouter:latest 
 MAINTAINER phil <phil.ding@nio.com>
